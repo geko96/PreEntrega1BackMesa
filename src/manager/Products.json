@@ -1,0 +1,181 @@
+[{
+    "title": "Figura Goku",
+    "description": "Figura Goku/DBZ/Bandai",
+    "price": 17900,
+    "thumbail": "sin imagen",
+    "code": "figuragoku",
+    "stock": 2,
+    "id": 0
+},
+{
+    "title": "Figura Izuku Midoriya",
+    "description": "Isuku Midoriya-MHA/ Altura 18cm/ Fabricante-Banpresto/ Material PVC",
+    "price": 17200,
+    "thumbail": "sin imagen",
+    "code": "izukubnh",
+    "stock": 1,
+    "id": 3
+},
+{
+    "title": "Figura Gohan SSJ2",
+    "description": "Figura Gohan SSJ2-DBZ/ Altuta 13cm/ Fabricante-Banpresto/ Material PVC",
+    "price": 15270,
+    "thumbail": "sin imagen",
+    "code": "gohanssj2",
+    "stock":3,
+    "id": 4
+},
+{
+    "title": "Campera DBZ",
+    "description": "Campera Goku DBZ/ Material 70% Nylon - 30% Algodon/ Talle S/M/L/XL",
+    "price": 5700,
+    "thumbail": "sin imagen",
+    "code": "camperadbz",
+    "stock": 10,
+    "id": 5
+},
+{
+    "title": "Collar llave Eren",
+    "description": "Collar Llave Eren/ Material-Metal",
+    "price": 600,
+    "thumbail": "sin imagen",
+    "code": "llaveeren",
+    "stock": 16,
+    "id": 6
+},
+{
+    "title": "Figura Keisuke Baji",
+    "description": "Figura Baji-Tokyo Revengers/ Altura 20cm/ Material PVC",
+    "price": 9800,
+    "thumbail": "sin imagen",
+    "code": "figurabaji",
+    "stock": 4,
+    "id": 7
+},
+{
+    "title": "Figura Cell Perfect Form",
+    "description": "Figura Cell Perfect Form-DBZ/ Altura 23cm/ Fabricantes-Banpresto/ Material PVC",
+    "price": 21000,
+    "thumbail": "sin imagen",
+    "code": "cellperfect",
+    "stock": 2,
+    "id": 8
+},
+{
+    "title": "Shingeki No Kyiojin Vol.34",
+    "description": "OMO FINAL (Editorial OVNI). El niño que alguna vez vivió con miedo a los titanes dentro de los muros se volvió la mayor amenaza de la historia. Armin, Mikasa, Levi y el resto de los sobrevivientes alcanzan a un Eren completamente desatado y enfocado en acabar con la humanidad, mientras que la sombra de Ymir lo observa todo en silencio.",
+    "price": 1900,
+    "thumbail": "sin imagen",
+    "code": "snk34",
+    "stock": 12,
+    "id": 9
+},
+{
+    "title": "Banana Fish Vol.01",
+    "description": "(Editorial Panini Manga) Año 1973, Vietnam. Un soldado pierde los papeles tras musitar las palabras Banana Fish … Año 1985, Nueva York. Ash intenta averiguar qué hay detrás de esas palabras, tras las cuales parece cernirse la oscura sombra de Papa Dino, un capo mafioso de los bajos fondos.",
+    "price": 2800,
+    "thumbail": "sin imagen",
+    "code": "bananafish01",
+    "stock": 6,
+    "id": 10
+},
+{
+    "title": "Battle Royale Deluxe Vol.03",
+    "description": "(Editorial IVREA) La historia narra que en un futuro, los estudiantes de secundaria están inmersos en una siniestra competencia llamada precisamente Battle Royale. Las particulares reglas de este juego? Sólo una persona del curso elegido para participar puede sobrevivir después de tres días en una isla repleta de peligros. Si hay más de uno vivo al cumplirse el plazo, mueren todos, así que la única forma de salvarse es asesinar a todos tus compañero/as. El horror, la locura y la traición se convertirán en moneda corriente, mientras la lenta cuenta regresiva va llegando a su fin. Pero, a pesar de todo esto, puede que incluso haya espacio para el amor?",
+    "price": 3200,
+    "thumbail": "sin imagen",
+    "code": "battle03",
+    "stock": 15,
+    "id": 11
+},
+{
+    "title": "Berserk Vol.01",
+    "description": "(Editorial Panini Manga) El malvado Conde usa sus poderes oscuros para transformar a un capitán de guardia derrotado en un horror inhumano para combatir a Guts, el Espadachín Negro. Puck, el coqueto hada del tamaño de Guts, es capturado cuando intenta detener la ejecución de un viejo médico, y se le da como un regalo a la hija del conde, una niña dulce en una jaula dorada, encarcelada por su padre en su propia habitación. Guts, decidido a hacer carne picada del conde, asalta el castillo y esculpe una franja de destrucción empapada de sangre a través de los secuaces del conde. Cara a cara con el Espadachín Negro por fin, el Conde revela su verdadera forma e incluso la espada de gran tamaño de Guts puede no ser lo suficientemente grande como para contender con esta monstruosidad demoníaca.",
+    "price": 2200,
+    "status": true,
+    "code": "berserk01",
+    "stock": 12,
+    "id": 12
+},
+{
+    "title": "Figura Rengoku Sepia",
+    "description": "Figura Rengoku Sepia/ Altuta 17cm/ Fabricante-Banpresto/ Material PVC",
+    "price": 13400,
+    "status": true,
+    "code": "rengokusepia",
+    "stock": 2,
+    "id": 13
+},
+{
+    "title": "Figura Satoru Gojo",
+    "description": "Figura Satoru Gojo-Jujutsu Kaisen/ Altura 17cm/ Fabricante-Banpresto/ Material PVC",
+    "price": 16600,
+    "status": true,
+    "code": "satorugojo",
+    "stock": 3,
+    "id": 14
+},
+{
+    "title": "Mouse Pad ZTDF",
+    "description": "Mouse Pad-Zero Two Darling In The Franxx/ Material-PVC",
+    "price": 2500,
+    "status": true,
+    "code": "mousepad",
+    "stock": 9,
+    "id": 15
+},
+{
+    "title": "Chainsaw Man Vol.08",
+    "description": "(Editorial IVREA) Chainsaw Man narra la historia de Denji, un pobre infeliz que haría cualquier cosa por guita. Su padre se suicidó dejándole una deuda impagable con la mafia, jamás en su vida lo abrazaron y gracias si puede apuntar a comerse una rodaja de figuras lactal por día. Cuando ya casi no le quedan órganos que vender, empieza a cazar demonios con su perro-motosierra, Pochita, substiendo con el sueño de tener un futuro mejor… Hasta que el mismo mafioso para el que trabajaban les tiende una trampa y ambos mueren descuartizados… al menos por un rato. Resulta que Pochita se fusiona con el corazón de Denji, volviéndolo un híbrido de humano y demonio dándole el poder de convertir sus brazos y cabeza en motosierras, para deleite de la tribuna que quería un buen shonen con gore. A partir de ahí, una bella mujer llamada Makima lo contacta y le da dos opciones: o trabaja como su perro fiel como Devil Hunter estatal o lo ponen a dormir definitivamente… ¡¡Y todo esto en el primer capítulo!!",
+    "price": 1800,
+    "status": true,
+    "code": "chainsaw08",
+    "stock": 12,
+    "id": 16
+},
+{
+    "title": "Demon Slayer Vol.09",
+    "description": "(Editorial IVREA) Esta obra de Koyoharu Gotouge, uno de los últimos megaéxitos de la Shonen Jump en Japón con 17 tomos y contando, transcurre en el Japón feudal de la Era Taisho, aunque en una versión con elementos fantásticos, como unos agradables demonios que morfan carne humana. Narra las aventuras de Tanjiro Kamado, un Joven amable y de buen corazón que vive con su madre y cinco hermanos en las montañas, y se dedica a vender carbón para subsistir. Un día que Tanjiro estaba volviendo de sus labores, un aldeano le sugiere pasar la noche en su casa para prevenir que se lo morfe un Oni. Tanjiro acepta, pero cuando finalmente regresa a su hogar, descubre que aunque él zafó, toda su familia fue devorada por un demonio, salvo su hermanita Nezuko, ¡que terminó convertida en uno de ellos! En su desesperación por encontrar ayuda, Tanjiro se topa con un asesino de demonios llamado Giyu Tomioka (clásico amigo-rival con pinta de me tomé tres valiums), quien descubre que extrañamente Nezuko retiene suficiente de su humanidad para querer proteger a su hermano. Sorprendido por esto, y por las habilidades de combate del chico, le sugiere que vaya a visitar a su maestro… Así comienzan las aventuras de Tanjiro para convertirse en un asesino de demonios y lograr encontrar tanto una cura para su hermana, como al asesino de su familia, mientras se topa con amigos y rivales de lo más inesperados. ¿En dónde destaca Kimetsu no Yaiba para llegar a ser tan popular? Prácticamente en todo. El mix justo de misterio, drama, acción, mitología y terror destilado, la hizo acaparar público muy amplio al saber mezclar los recursos y dispositivos típicos del género, protagonista bueno y -cada vez más- poderoso incluido. ¡Kimetsu no Yaiba es una historia de intensas aventuras que no da respiro, y ahora Ivrea te la encaja cual tarascón de demonio!",
+    "price": 2100,
+    "status": true,
+    "code": "demon09",
+    "stock": 10,
+    "id": 17
+},
+{
+    "title": "Card Captor Sakura Vol.01",
+    "description": "(Editorial IVREA) La historia se sitúa exactamente después del epílogo de la serie anterior, con los personajes a punto de iniciar la secundaria baja, tras un período de tranquilidad una vez que Sakura logró recapturar a todas las cartas. Ahora es momento de que la protagonista pueda relajarse y disfrutar de un nuevo ciclo escolar, con sus amigas de siempre y el regreso de Syaoran… Hasta que surgen complicaciones: las cartas de Sakura pierden su poder, y una vez más tiene que reiniciar su captura. Así nacen las “clear cards”, unas misteriosas cartas transparentes. Pero eso no es todo… Ahora guiada por la “Llave de los Sueños” y a su vez desorientada por las premoniciones que le surgen al soñar (a veces dormida, a veces despierta), Sakura se embarca en una nueva aventura, que por supuesto incluye nuevos personajes, diseños impresionantes y las impredecibles vueltas de tuerca a las que nos tienen malacostumbrados las autoras de este manga. Clear Card ya fue adaptado a un exitoso anime.",
+    "price": 2000,
+    "status": true,
+    "code": "sakura01",
+    "stock": 3,
+    "id": 18
+},
+{
+    "title": "Pin Metal Satoru Gojo",
+    "description": "Pin Metal Satoru Gojo-Jujutsu Kaisen/ Material-Metal",
+    "price": 1100,
+    "status": true,
+    "thumbail": "sin imagen",
+    "code": "pingojo",
+    "stock": 12,
+    "id": 19
+},
+{
+    "title": "Figura Itachi",
+    "description": "Figura Itachi-Naruto (Articulado)/ Altura 17cm/ Fabricante-Banpresto/ Material PVC",
+    "price": 18000,
+    "status": true,
+    "code": "figuraitachi",
+    "stock": 2,
+    "id": 20
+},
+{
+    "title": "Llavero Takamura",
+    "description": "Llavero Takamura-Hajime No Ippo/ Material-Plastico/Metal",
+    "price": 670,
+    "status": true,
+    "code": "llaverotakamura",
+    "stock": 12,
+    "id": 21
+}]
